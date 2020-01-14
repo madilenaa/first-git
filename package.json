@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/madilenaa/first-git/issues"
   },
-  "homepage": "https://github.com/madilenaa/first-git#readme"
+  "homepage": "https://github.com/madilenaa/first-git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
 }
