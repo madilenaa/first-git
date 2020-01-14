@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+h1 h3 {
+  font-size: 18px;
+  font-family: sans-serif;
+  font-color: grey;
+}
+
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+  font-color: black;
+}
